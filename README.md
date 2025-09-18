@@ -63,7 +63,7 @@ Copy code
 
 ### Deploy Online
 - **GitHub Pages** – Push to a GitHub repo → Enable Pages in settings.
-- **Vercel** – Import repo → Deploy in seconds.
+
 
 ---
 
@@ -80,8 +80,7 @@ Copy code
 ---
 
 ## 🖼️ Live Link
-
-
+https://shiksann.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/
 
 ---
 
